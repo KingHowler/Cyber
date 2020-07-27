@@ -1,0 +1,32 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "This a basic code Discord bot file which you can edit using \"Quoda\" in android & run using \"Termux\" also in android",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "!ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingHowler/Cyber.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "Code",
+    "File",
+    "How",
+    "to",
+    "Discord"
+  ],
+  "author": "KingHowler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingHowler/Cyber/issues"
+  },
+  "homepage": "https://github.com/KingHowler/Cyber#readme"
+}
