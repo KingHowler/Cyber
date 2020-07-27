@@ -1,8 +1,8 @@
 # Cyber Bot Code
 
--Hey There !!  Making Your First Discord Bot??
--You have come to the Right Place!! 
--NOTE : Remember that you have to create it in Android
+- Hey There !!  Making Your First Discord Bot??
+- You have come to the Right Place!! 
+- NOTE : Remember that you have to create it in Android
 
 ### Installing Applications
 
