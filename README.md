@@ -55,9 +55,4 @@ Now what you all have been waiting for, Activating The Bot you created.
 `clear`
 4. Then type
 `node .`
-### Congrats!! You Have finished# Cyber
-# Cyber
-# Cyber
-# Cyber
-# Cyber
-# Cyber
+# Congrats!! You Have finished
