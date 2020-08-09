@@ -29,14 +29,14 @@
 3. Open Quoda
 4. In the Folder of the codes create a new file "config.json"
 5. Paste the following and replace "Paste-Your-Token-Here" with the token you coppied
-`
+```
 {
 	
 	 	"prefix": "!",
 	 	"token": "Paste-Your-Token-Here"
 	 	 
 }
-`
+```
 
 ### Adding Bot to Server
 
